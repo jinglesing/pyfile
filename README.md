@@ -4,9 +4,13 @@ python 学习之旅
 
 1.python 安装外部包方式
 
-  .exe         .tar.gz                           .whl                   .egg                    直接拷贝外部包
-  直接安装      解压后python setup.py install     pip install xx.whl     easy install xx.egg     将外部包放在python目录下\lisit-packages下
-
+  .exe                    直接安装 
+  .tar.gz                 解压后python setup.py install
+  .whl                    pip install xx.whl 
+  .egg                    easy install xx.egg 
+  直接拷贝外部包           将外部包放在python目录下\lisit-packages下
+ 
+ 
 1.python 2.7.13
 MySQLdb 安装
 
