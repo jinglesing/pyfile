@@ -29,6 +29,7 @@ def getlabels(games):
         links = tagsob.find_all('a')#得到所有标签的元素
 
         tags = [link.text.strip() for link in links]#得到标签的文本
+        print "tags is",type(tags)
         print json.dumps(tags,encoding="utf-8",ensure_ascii=False)#为了输出中文
 
 
