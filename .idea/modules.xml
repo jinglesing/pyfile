@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://D:/程序员软件/pythoncode/爬虫框架scrapy/football_Europe/.idea/football_Europe.iml" filepath="D:/程序员软件/pythoncode/爬虫框架scrapy/football_Europe/.idea/football_Europe.iml" />
+      <module fileurl="file://E:/python/inter_dj_one/myblog/.idea/myblog.iml" filepath="E:/python/inter_dj_one/myblog/.idea/myblog.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pyfile.iml" filepath="$PROJECT_DIR$/.idea/pyfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../shuju/.idea/shuju.iml" filepath="$PROJECT_DIR$/../../../shuju/.idea/shuju.iml" />
     </modules>
   </component>
 </project>
